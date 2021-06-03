@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Evident satisfasction to the sick and lame; by Nath. Merry, student in physick, dwelling at the Star in Bow-Lane, near Cheapside.</title>
+            <author>Merry, Nathaniel.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26797</idno><idno type="EEBO-CITATION">226318285</idno>
+  <idno type="VID">195872</idno>
+  <idno type="EEBO-PROQUEST">2248523494</idno>
+  
+            <idno type="OCLC"> 226318285</idno>
+            <idno type="STC">Wing M1848A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[68]</idno>
+            <idno type="OCLC">ocn 226318285</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195872)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[68])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Evident satisfasction to the sick and lame; by Nath. Merry, student in physick, dwelling at the Star in Bow-Lane, near Cheapside.</title>
+                  <author>Merry, Nathaniel.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Merry, Nathaniel.</term>
+               <term type="topical_term">Medicine --  England --  History --  17th century --  Sources.</term>
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:195872:1"/>
+            <pb facs="tcp:195872:1"/>
+            <head>
+               <hi>EVIDENT SATISFACTION to the</hi> SICK <hi>and</hi> LAME; <hi>By</hi> NATH. MERRY, <hi>Student in Physick, dwelling at the</hi> Star <hi>in</hi> Bow-lane, <hi>near</hi> Cheapside.</head>
+            <p>
+               <hi>IN regard there are very many grievously afflicted in and about this City, that groan under Sicknesses, Great Dolours, and divers Calamitous Diseases, who have been long Sick and labour under despair of their Cure; and he having had much Experience both in the Operative and Administrative part of Physick, and long exercis'd in the most difficult and most deplorable Diseases; as the following instances will fully demonstrate: For your incouragement, These are therefore to inform you, that by Gods Blessing you may have proper and homogenial Medicines at reasonable rates, in order to your Relief, Ease, and speedy Cure, according to the time and nature of your Distemper, in the most deplorable Diseases curable, either inward or outward, acute or chronical, if you come to my House</hi> as abovesaid, <hi>at any time from</hi> Eight <hi>till</hi> Eleven, <hi>and from</hi> One <hi>to</hi> Six. <hi>And in respect matter of fact, Cures done and faithfully performed, carries greater satisfaction in it, than the Pen or Tongue of any man can give, as</hi> Quint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lian <hi>rightly said, That Observation was the Original of Physick; so also is it the life and continuance of it: the surest and most demonstrating part and practice arising thence,</hi> (viz.) <hi>from Experience, the chiefest and last part of Physick: I have here therefore given you an account of some Eminent Cures done by me; and not only the Cures, but the Persons Names so cur'd, voluntarily subscribed by themselves to each Cure, for your assurance of the Truth, that others may reap like bene<g ref="char:EOLhyphen"/>fit, and to stop the mouth of thr envious: some of which were put off as incurable by others, and some of their own and their Friends hopes failing them: This I have done, in respect to Mankind, and it cannot be good to conceal it; because it would bespeak cruelty. I could add a multitude more, but these may meritorioussy satisfie the most Intelligent and most Curious Persons, who certainly know that these Cures could not be perfor<g ref="char:EOLhyphen"/>med but by Medicines that have a power to alter Ferments and rectifie the</hi> Archeus <hi>or Spirit of Life: Notwithstanding, those that desire it, may see at my House an Account of many more Cures, wherein, let your Case be almost what it will, it's ten to one but you may see some one Case or other like your own. All which Cures (by the blessing of God, to whom let the praise be) were faithfully performed by me as followeth:</hi>
+            </p>
+            <div type="testimonials">
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr. <hi>John Croften,</hi> living in the upper ground on the <hi>Banks-side,</hi> next door to the Sign of the <hi>Ship,</hi> his Child, <hi>John Craften,</hi> aged three years and half, was by Gods blessing cur'd by my means a<g ref="char:EOLhyphen"/>bout <hi>June</hi> 75. of a violent Contraction, being drawn backward Head and Heels, as if he had been broken in the middle, his Breast bending forward like the corner of a Trirngle, and the Pole of his Head drawn back upon his Back, that he seem'd like a Child drawn to a heap; he groan'd as if he had been dying, and a very vehement heat attended it: perfectly cur'd, and now as straight and active as most Children in <hi>London,</hi> to be seen by any that desire it. I cur'd another Child of his of sore Eyes. </p>
+                           <closer>
+                              <dateline>To the truth of which I voluntarily put my hand <date>this 22th. of <hi>Sept.</hi> 76.</date>
+                              </dateline>
+                              <signed>John Craften.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr. <hi>Robert Reynold,</hi> a Joyner at the <hi>Fox</hi> and <hi>Crown</hi> in <hi>White-Cross-street;</hi> his Child, one year and half old, was taken with vi<g ref="char:EOLhyphen"/>lent Vomitings, Loosness, and Griping of the Guts, insomuch that ever thing past through him as they were taken, or came up<g ref="char:EOLhyphen"/>ward immediately; and with the burning and violence of pains was almost spent in one night, and in great Danger of Death; con<g ref="char:EOLhyphen"/>tinually screeching with vehemence of his pain: who by Gods blessing was cur'd and restor'd to perfect health by my means a<g ref="char:EOLhyphen"/>bout <hi>Mty</hi> 76. </p>
+                           <closer>
+                              <dateline>To the truth of which I voluntarily put my hand<date> this 18th of <hi>October</hi> 76.</date>
+                              </dateline>
+                              <signed>Robert Reynolds.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr. <hi>Thomas Barthlet,</hi> dwelling in <hi>New-market</hi> at the Sign of the <hi>White Horse,</hi> his Wife by the blessing of God was cur'd by my means, about <hi>May</hi> 75. of an Ulcer in the Womb, which begat as sharp pains, as if Knives had been thrust into the parts; and by the influence of those pains, her Thighs and Back were exceeding<g ref="char:EOLhyphen"/>ly tortur'd: she had great pains in her Stoma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>k, was brought very low, and had a general weakness; which render'd her case very dan<g ref="char:EOLhyphen"/>gerous to her self and those Artists which observ'd her condi<g ref="char:EOLhyphen"/>tion. </p>
+                           <closer>
+                              <dateline>To the truth of which I voruntory put my hand <date>rhis 20th of <hi>Octob.</hi> 76.</date>
+                              </dateline>
+                              <signed>Anne Barthlet.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr <hi>Charles Merry</hi> Ginger-bread-baker, living in <hi>Colledg-yard</hi> in <hi>Southwark,</hi> near <hi>Margarets-hill,</hi> his Child was by the blessing of God cur'd by my means of very sore Eyes, which her Parents were inform'd by many was the <hi>Kings-Evil</hi> in the Eyes. </p>
+                           <closer>
+                              <dateline>To the truth of which I voluntarily put my hand <date>this 2d. of <hi>Octob.</hi> 76.</date>
+                              </dateline>
+                              <signed>Charles Merry.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr <hi>Robert Hooper,</hi> living in <hi>White-Chappel</hi> in <hi>Last Ally,</hi> near the Church, his Wife was by Gods blessing cur'd by my means, about <hi>Sept.</hi> 75. of great oppression on her Heart and Stomack, shortness of Breath, which she thought alone would have kill'd her; she was very Dropsical, complicated with the Scurvy, three Fingers of one Hand swoln and Useless, and one of them broken out, which she feared the loss of; her Thgh, Leg, and Foot was swoln from her Flanck down to her Toes; three of her Toes were tumified and ulcerated, and the Chyrurg on that had her in hand, said they must be all cut off; he cut off one Joynt of one Toe, but could not subject it to healing; when she came to me she came with dfficulity w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>th two Crurches, and indeed was in a very deplorable condition; yet notwithstanding, in a little time by Gods blessing I cur'd her, and shh brought me eir Crurches with greot joy. </p>
+                           <closer>
+                              <dateline>To the truth of which <hi>I</hi> voluntarily subscribe my <gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>and, <date>
+                                    <hi>Sept.</hi> 25th. 76.</date>
+                              </dateline>
+                              <signed>Anne Hooper.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mrs. <hi>Mary Savage,</hi> aged fourscore, living by <hi>Masons-</hi>Stairs on the Bank-side, was by Gods blessing cured by my means about <hi>May</hi> 76. of the Scurvy and Dropsie, great shortness of Breath, great pains in her Stomack, her Belly and Legs much swoln and pain'd; her Hams as if they had been bound with Cords, attended with great weakness, not able to go nor scarce stir, and if she did stsr, was nigh ready to lose her breath. </p>
+                           <closer>
+                              <dateline>To the truth of which I volun<g ref="char:EOLhyphen"/>tarily put my hand <date>
+                                    <hi>Sept.</hi> 21th. 76</date>
+                              </dateline>
+                              <signed>Mary Savage.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mrs. <hi>Joane Clark,</hi> in <hi>Holbourn</hi> in <hi>Plow-yard,</hi> near <hi>Field-lane-</hi>end, against the Sign of the <hi>George,</hi> her Daughter aged ten years and an half, by Gods blessing was cured by me, about <hi>May</hi> 76. having one Arm and Hand useless, and her Fingers continually trembling, and her right side and Leg benum'd and useless, so that she drag'd it af<g ref="char:EOLhyphen"/>ter her; and of a wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ty and active child, was become very <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ull and foolish like a Changling, all occasion'd by a fright: who was restored by my means to her former understanding and activity, together with the perfect use of her Arm, Hand, Side &amp; Leg, </p>
+                           <closer>
+                              <dateline>to the truth of which I have voluntarily put my hand <date>this 26th. of <hi>Sept.</hi> 76.</date>
+                              </dateline>
+                              <signed>Joane Clark.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>William Beard,</hi> A labourer, living in <hi>White-Chappel▪ Church-Lane,</hi> next door to the <hi>Monks-head,</hi> his Child about four years old, was by Gods blessing cured by me about <hi>March</hi> 75, having no use of his Limbs, a very great head, a great belly, and ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y narrow brest; his Legs would turn about, as if he had been disjoynted; and so weak withal, that he could not stand upon them; and inwardly very weak: he brought out of his Stomack pieces like Liver and other very foul matter; he went with difficulty with two Cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tches, which
+<pb facs="tcp:195872:2"/>
+                              <gap reason="illegible" resp="#murp" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> mother, when he was cured, brought <gap reason="illegible" resp="#murp" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                           </p>
+                           <closer>truth of which I voluntarily put my hand <date>this 25th of <hi>Sept.</hi> 76.</date>
+                              <signed>William Beard.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr. <hi>Henry Gardener,</hi> living in the Pie-Garden on the Banks-side, near the sign of the King <hi>David,</hi> his wife was by Gods blessing cured by my means of the Wind-Collick, of pains in her stomack, which lay like a bar thwart her stomack; great shortness of breath, in so much that she her self and those that were about her, thought she would have died with that sickness. </p>
+                           <closer>
+                              <dateline>To the truth of which I voluntarily put my hand<date>this 23th of <hi>Sept.</hi> 76.</date>
+                              </dateline>
+                              <signed>Mary Gardener.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>Thomas Fletcher</hi> a Turner, living in <hi>East-Smithfield,</hi> against Parrat-Ally, at the sign of the Still, by Gods blessing was cured by me about <hi>Octob.</hi> 75. of a Consumption, Cough, and Phtisick; he was even like an Anantomy, the Calves of his Legs become almost as small as the wrist of his Arme; very hot and sweat exceedingly from his belly upward, and very cold and cold sweats from his belly downwards, in so much that he could scarce feel hot bricks which they had before applied to no purpose; he had very little sleep or rest for fourteen dayes: he was brought so weak that he was not able to go over a room. His wife also cured by me at the same time of a great Cough, pains in her back and side, faint<g ref="char:EOLhyphen"/>ness and much weakness. </p>
+                           <closer>
+                              <dateline>To the truth of which I voluntarily put my hand<date> this 29th of <hi>Sept.</hi> 76.</date>
+                              </dateline>
+                              <signed>Thomas Fletcher.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>Edward Adams</hi> A Colour-maker living in <hi>Golden-Lane</hi> in <hi>Harts<g ref="char:EOLhyphen"/>horn-Court</hi> near the <hi>Sugar-loaf,</hi> was by Gods blessing cur'd by me about <hi>Octob.</hi> 75. of a Malignant Feaver, attended with much drought, a vehement heat, great weight on his Stomack, a terrible pain in his left side, great lightness in his head, and talkt Idle; he was not able to stir but as mov'd by others, and lookt upon as a man a dy<g ref="char:EOLhyphen"/>ing: was restored to perfect health by my means. </p>
+                           <closer>
+                              <dateline>To the truth of which I voluntarily subscribe my hand <date>this 28th of <hi>Sept.</hi> 76.</date>
+                              </dateline>
+                              <signed>Edward Adams.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>Joseph Street</hi> in <hi>Kathern-Wheel Yard</hi> in <hi>Leather-Lane</hi> in <hi>Hatton<g ref="char:EOLhyphen"/>garden,</hi> a Lodger at Mr. <hi>Enslys,</hi> his Wife was by Gods blessing cur'd by my means, about <hi>June</hi> 76. of a very great Tympany, of two years standing; in the mean time she had a child, and after her delivery, her belly continu'd as great as if she had not been delivered, and increased in bigness till she came to me; some told her if ever she were cured she must be tapt, but she refus'd it; and when she came to me her belly was swoln up to her breasts in an extraordinary manner: there was some appearance of swelling, even to her throat, she had little or no stomack to her meat, but a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> she did eat or drink she would be ready to burst; she had a vehe<g ref="char:EOLhyphen"/>ment pain in her left side and in the small of her back, an exceeding stoppage of her water, and not able to turn in her bed; restored by my means to perfect health, and to her ordinary proportion. </p>
+                           <closer>
+                              <dateline>To the truth of which <hi>I</hi> voluntarily put my hand <date>this 27th of <hi>Novemb.</hi> 76.</date>
+                              </dateline>
+                              <signed>Dorcas Street.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mrs. <hi>Susanna Deane,</hi> aged sixty eight years, living in <hi>Charter-house-Lane,</hi> a Lodger at Mr. <hi>Thomas Temples</hi> a Tallow Chandler at the Green-man, by the blessing of God was cur'd by my means about <hi>Feb.</hi> 75. of Deafness in one Ear of fourteen years standing, in the other Ear of a moneths standing, in a little time. </p>
+                           <closer>
+                              <dateline>To the truth of which <hi>I</hi> voluntarily put my hand<date> this 29th of <hi>Novemb.</hi> 76.</date>
+                              </dateline>
+                              <signed>Susanna Deane.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mrs. <hi>Elizabeth Brooks</hi> Widdow, living in the <hi>Pie Garden</hi> by <hi>Masons-Stairs,</hi> on the <hi>Banks-Side,</hi> was by Gods blessing cured by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ay means in <hi>July</hi> 76. of a Feaver and Ague, great swimming in her head, grievous pains in her Stomack; she wanted rest through her extream pain: her Child also cured by me of the Worms. </p>
+                           <closer>
+                              <dateline>To the truth of which <hi>I</hi> voluntarily put my hand <date>this 22 of <hi>Sept.</hi> 76.</date>
+                              </dateline>
+                              <signed>Elizabeth Brooks.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>
+                                 <gap reason="illegible" resp="#murp" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap>s-Browne</hi> a Silk-weaver in <hi>Bottle</hi> and <hi>Axe-yard,</hi> at the lower <gap reason="illegible" resp="#murp" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>f the Yard in the <hi>Burrough</hi> in <hi>Southwark,</hi> his VVife was thanks <gap reason="illegible" resp="#murp" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>, cured by my <gap reason="illegible" resp="#murp" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> which an Artist told her would kill her, and would not meddl<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> with it; another let her blood under the tongue, which made he tongue sore, itching, burning, and somewhat swollen, and Jaw fal<g ref="char:EOLunhyphen"/>len; that she could open her mouth but a very little, and coul<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> not swallow a drop but with great difficulty; what she recei<g ref="char:EOLunhyphen"/>ved in at her mouth would come forth at her nostrils: she was hal<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> an hour lying on her back with great struggling, ere she could swal<g ref="char:EOLunhyphen"/>low the Medicine, which was but half a spoonful, both dose an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> vehicle. <hi>I</hi> brake the imposthume, brought out abundance of blood corruption, and very ill scented matter, and heal'd it in a very littl<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> time. </p>
+                           <closer>
+                              <dateline>To the truth of vvhich <hi>I</hi> voluntarily put my hand <date>this 10th of <hi>Novemb.</hi> 76.</date>
+                              </dateline>
+                              <signed>Anne Browne.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>Thomas Hill</hi> a <hi>Shoe-maker</hi> in <hi>Barnaby-street</hi> near the <hi>Christopher,</hi> in <hi>Chapmans-rents,</hi> vvas by Gods blessing cur'd by me about <hi>Sept.</hi> 76 of the Scurvy, very great pains in his Limbs, very great faint<g ref="char:EOLhyphen"/>ness and vveakness, scarce able to cross a room; and these miseries attended vvith a very sore Throat, and a terrible Cough, vvhich he thought vvould have rent his Throat.</p>
+                           <closer>
+                              <dateline>To the truth of vvhich<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap> voluntarily put my hand <date>this 6th of <hi>Octob.</hi> 76.</date>
+                              </dateline>
+                              <signed>Thomas Hill.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>Roger Kelly,</hi> aged about 60 years, in <hi>Carpenters-yard,</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <hi>Rosemary-Lane,</hi> at the backside of the White-Lion, by the blessin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> of God vvas cured by me about <hi>Sept.</hi> 76. of an imposthume in hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> stomack (occasioned by a fall) vvhich caused much pain both upvvar<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> and dovvnvvard, and almost stopt his throat, that he could no eat nor drink; he could only chevv his food and spit it out again<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> he had also griping of the guts, stoppage of his water, shortnes<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> of breath, and much vvasted, and scarce able to go or stand. <hi>I</hi> brak<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> the imposthume, brought off abundance of blood and corruption, and cur'd him perfectly. </p>
+                           <closer>
+                              <dateline>To the truth of vvhich <hi>I</hi> voluntarily pu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> my hand <date>this 7th of <hi>Decemb.</hi> 76.</date>
+                              </dateline>
+                              <signed>Roger Kelly.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>Richard Wagat</hi> in <hi>Moore-Lane</hi> nigh <hi>Cripplegate,</hi> in <hi>Sugar-loaf Ally,</hi> near the Cutlers Arms, his vvife aged 64 years, by Gods blessing was cur'd by my means about Midsummer 76 of a feaver, great pains in her head and stomack, much vveakness, and general pains all over her, that she could not rest any vvhere; her self and those that vvere about her, thought she vvould have died thereof: His servant, aged about 15 years vvas cur'd by me, a little before that time, of a Consumption vvhereby he vvas much vvasted; he had very great pains in his head and stomack, and vvas so far spent that every body that knew him despair'd of his cure; both thanks be to God perfectly cured by me. </p>
+                           <closer>
+                              <dateline>To the truth of vvhich <hi>I</hi> voluntarily put my hand <date>this 25th of <hi>November.</hi> 76.</date>
+                              </dateline>
+                              <signed>Richard Wagat.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr. <hi>John Beacham</hi> in <hi>Bishops-gate-street,</hi> in <hi>Swan-yard,</hi> was by the blessing of God, cured by my means about <hi>June</hi> 75 of a Con<g ref="char:EOLhyphen"/>sumption, great shortness of Breath, an exceeding violent Cough a Coldness within the Skin, as if Ice had lain there, both in hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> Back and Sides; much pain in his Stomach, and brought up every thing that he took; not able to follow his business: he brough out of his Stomach great clods of Blood. He had made use of di<g ref="char:EOLhyphen"/>vers, but found no relief; netwithstanding was restored by my means in a little time. </p>
+                           <closer>
+                              <dateline>To the truth of which I voluntarily put <gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap> hand <date>this 6th. of <hi>December</hi> 76.</date>
+                              </dateline>
+                              <signed>John Beacham.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>
+                              <hi>Joan Jennings</hi> a Butchers Widdow in <hi>Saints Alley</hi> by the <hi>Counter</hi> in <hi>Southwark,</hi> about <hi>August</hi> last was by Gods blessing cured by me of a violent pain in her head and one of her ears, as if spears had been run into her head; </p>
+                           <closer>
+                              <dateline>to the truth of which I voluntarily put my hand <date>this 11th. of <hi>October</hi> 1676.</date>
+                              </dateline>
+                              <signed>Joan Jennings.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimonial">
+                           <p>Mr. <hi>William Scarce,</hi> near <hi>Shoreditch</hi> Church, in <hi>Cock-lane,</hi> in <hi>Kings head</hi> Court, was by Gods blessing, cured by my means of the Scia<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>
+                              <g ref="char:EOLhyphen"/>ca and great pains in his back and sides, which were so sharp, that to use his own words, he would have given any body leave to knock him in the head; the other circumstances here is no room to insert.</p>
+                           <closer>
+                              <signed>Witness my hand <hi>William Scarce.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
